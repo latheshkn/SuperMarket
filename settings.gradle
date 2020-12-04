@@ -1,0 +1,3 @@
+include ':supermarketuserkotlin'
+include ':app'
+rootProject.name = "SuperMarketUser"
